@@ -5,6 +5,7 @@ This project involves the design and verification of a synchronous FIFO (First-I
 
 ## FIFO design parameters
 **FIFO_WIDTH**: DATA in/out and memory word width (default: 16).
+
 **FIFO_DEPTH**: Memory depth (default: 8).
 
 ## FIFO Ports
